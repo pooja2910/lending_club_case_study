@@ -7,8 +7,8 @@
 ## Table of Contents
 * Data Understanding
 * Data Cleaning
-* Data Analyis
-* Ky Insigghts
+* Data Analysis
+* Key Insights
 
 
 
